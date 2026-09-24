@@ -59,3 +59,24 @@ La terminal te mostrará una dirección local (por lo general es `http://localho
 * **Lucide React:** Sistema de iconos ligeros y escalables.
 * **React Router:** Enrutamiento del lado del cliente.
 * **Vanilla CSS:** Hojas de estilo personalizadas con un sistema visual sólido.
+
+
+<img width="1866" height="985" alt="image" src="https://github.com/user-attachments/assets/dff180ab-44af-4863-9702-b1a019cff224" />
+
+
+<img width="1866" height="982" alt="image" src="https://github.com/user-attachments/assets/78d3e380-7634-445e-9b0c-db936be15577" />
+
+
+<img width="1862" height="985" alt="image" src="https://github.com/user-attachments/assets/8d6a5ba0-e621-4a6b-b11a-1047c696f8af" />
+
+
+<img width="1865" height="983" alt="image" src="https://github.com/user-attachments/assets/9bacaabb-06ec-468a-bbb6-aeeaf6c87bc4" />
+
+
+<img width="1865" height="982" alt="image" src="https://github.com/user-attachments/assets/ff40b0e9-c39a-4501-96e3-0d97c88b854b" />
+
+
+<img width="1862" height="985" alt="image" src="https://github.com/user-attachments/assets/75231358-7818-4c0a-851a-c564181458b3" />
+
+
+<img width="1868" height="983" alt="image" src="https://github.com/user-attachments/assets/5dbf2568-1905-4734-9ac0-6f3b65e522c0" />
